@@ -1,3 +1,4 @@
+![logo](https://github.com/akashkiranlamani/akashkiranlamani/blob/main/20250717_133457.jpg)
 <h1 align="center">hi 🖐 'I am akash kiran lamani</h1>
 <h3 align="center">I learning computer science</h3>
 
